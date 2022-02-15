@@ -61,4 +61,8 @@ public class Logintest extends BaseClass {
 	public void test03(){
 		throw new SkipException("skipping a testcase");
 	}
+	@Test
+	public void test04(){
+		throw new SkipException("skipping a testcase");
+}
 }
