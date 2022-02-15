@@ -1,0 +1,45 @@
+2022-02-08 14:42:28,474  INFO [main] BaseClass:20 - initializing browser
+2022-02-08 14:45:15,102  INFO [main] BaseClass:20 - initializing browser
+2022-02-08 14:58:42,103  INFO [main] BaseClass:20 - initializing browser
+2022-02-08 15:09:03,496  INFO [main] BaseClass:20 - initializing browser
+2022-02-08 15:09:03,508  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-08 15:09:14,671  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-08 15:41:30,834  INFO [main] BaseClass:29 - initializing browser
+2022-02-08 15:41:30,845  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-08 15:41:39,942  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-08 15:55:34,900  INFO [main] BaseClass:29 - initializing browser
+2022-02-08 15:55:34,912  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-08 15:55:39,343  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-08 15:57:48,600  INFO [main] BaseClass:29 - initializing browser
+2022-02-08 15:57:48,620  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-08 15:57:53,269  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-08 17:59:59,481  INFO [main] BaseClass:34 - initializing browser
+2022-02-08 17:59:59,494  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-08 18:00:08,296  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-14 17:35:55,203  INFO [main] BaseClass:34 - initializing browser
+2022-02-14 17:35:55,245  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-14 17:36:30,117  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-14 17:38:48,191  INFO [main] BaseClass:34 - initializing browser
+2022-02-14 17:38:48,235  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-14 17:38:52,694  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-14 17:40:41,179  INFO [main] BaseClass:34 - initializing browser
+2022-02-14 17:40:41,197  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-14 17:40:45,573  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-14 17:41:55,473  INFO [main] BaseClass:34 - initializing browser
+2022-02-14 17:41:55,489  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-14 17:41:59,762  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-14 17:43:57,968  INFO [main] BaseClass:34 - initializing browser
+2022-02-14 17:43:57,987  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-14 17:44:02,595  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-14 17:45:47,495  INFO [main] BaseClass:34 - initializing browser
+2022-02-14 17:45:47,511  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-14 17:45:51,757  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-14 17:59:08,118  INFO [main] BaseClass:34 - initializing browser
+2022-02-14 17:59:08,135  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-14 17:59:12,619  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-14 18:00:04,262  INFO [main] BaseClass:34 - initializing browser
+2022-02-14 18:00:04,274  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-14 18:00:08,585  INFO [main] BaseClass:14 - reading a property file for a keyurl
+2022-02-14 18:00:53,184  INFO [main] BaseClass:34 - initializing browser
+2022-02-14 18:00:53,194  INFO [main] BaseClass:14 - reading a property file for a keybrowser
+2022-02-14 18:00:57,390  INFO [main] BaseClass:14 - reading a property file for a keyurl
